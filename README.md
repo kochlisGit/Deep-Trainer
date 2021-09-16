@@ -9,7 +9,7 @@ Monitor Your Workout through a Webcam/IP Camera. No equipment is required, other
 * Text messages on the screen, when your pose is incorrect.
 
 # Licensing
-You can check the license here:
+You are allowed to use this software for personal use only. You can check more about the license here:
 https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE.md
 
 # Screenshots
