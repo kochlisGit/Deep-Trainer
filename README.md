@@ -17,6 +17,7 @@ https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE.md
 ![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/Screenshot%20from%202021-09-16%2016-22-03.png)
 ![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/bicep_corrent.png)
 ![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/not_vertical_arm.png)
+![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/unknown.png)
 
 # Frameworks
 The program is writen in python. The pose-estimation model is "Movenet Thunder/Lightning provided by Tensorflow". The GUI is built with Tkinter and the visualization of the pose is made using Opencv.
@@ -30,6 +31,8 @@ https://youtu.be/l3II62ebGZ4
 https://youtu.be/kUw_1Pwyo-Q
 
 https://youtu.be/NjcsrHjAWa0
+
+https://youtu.be/NEtYAnLfmvY
 
 # Performance
 According to Tensorflow's Movenet Thunder model, it achieves states of the art results, while maintaining very fast execution speed. More specifically, It can estimate a pose at about 72% accurately at 30 fps. Movenet lightning, while it can operate in 60 fps, It has lower accuracy. The model is tested of both GPU GTX 970 and with an Intel i5 CPU.
