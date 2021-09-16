@@ -3,7 +3,7 @@ Monitor Your Workout through a Webcam/IP Camera. No equipment is required, other
 
 # Licensing
 You can check the license here:
-https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE
+https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE.md
 
 # Snapshots
 
