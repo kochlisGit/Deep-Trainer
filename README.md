@@ -1,12 +1,22 @@
 # Deep-Trainer
 Monitor Your Workout through a Webcam/IP Camera. No equipment is required, other than a camera and a laptop. This application could potentially replace a personal trainer, making it the idea app for workout.
 
+# Features
+* GUI (Graphical User Interface) in which You can select the video stream and an exercise.
+* Notification Sound when you complete a repetition correctly.
+* Realtime detection and demonstration of the pose of your body.
+* Warnings when You are doing the exercise too fast.
+* Text messages on the screen, when your pose is incorrect.
+
 # Licensing
 You can check the license here:
 https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE.md
 
 # Screenshots
-
+![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/Screenshot%20from%202021-09-16%2016-22-01.png)
+![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/Screenshot%20from%202021-09-16%2016-22-03.png)
+![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/bicep_corrent.png)
+![](https://github.com/kochlisGit/Deep-Trainer/blob/main/screenshots/not_vertical_arm.png)
 
 # Frameworks
 The program is writen in python. The pose-estimation model is "Movenet Thunder/Lightning provided by Tensorflow". The GUI is built with Tkinter and the visualization of the pose is made using Opencv.
