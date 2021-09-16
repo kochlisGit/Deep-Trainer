@@ -1,19 +1,23 @@
 # Deep-Trainer
 Monitor Your Workout through a Webcam/IP Camera. No equipment is required, other than a camera and a laptop. This application could potentially replace a personal trainer, making it the idea app for workout.
 
-# Application Usage
-You may use this application only for your personal usage. You can check the license here:
+# Licensing
+You can check the license here:
+https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE
+
+# Snapshots
 
 
 # Instructions
-1. Install Python 3
-2. Install the following libraries:
+1. Download all the files.
+2. Install Python 3
+3. Install the following libraries:
 * Numpy
 * Opencv
 * Tensorflow
 * Pygame
 * Tkinter
-3. Run gui.py
+4. Run gui.py
 
 Make sure your webcam is enabled. If You'd like to use an IP Camera, make sure to **set the correct IP_CAMERA_URL at the gui.py file.**
 
