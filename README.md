@@ -53,3 +53,9 @@ Make sure You put the camera in the correct position for each exercise. Each exe
 Your pose is displayed on the screen. You should adjust the distance of the camera, before proceeding to the exercise. Make sure You are not far away from the camera or the camera isn't too close to your body. If the camera is placed in the correct position, the model should be able to recognise all your body's joints during the workout.
 
 If You'd like to change an exercise, You must restart the application.
+
+# Contributors
+* Vasileios Kochliaridis
+* Nikolaos Gkaripis
+* Antonios Koutsouras
+* Stathis Moustakas
