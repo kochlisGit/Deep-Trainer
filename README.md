@@ -10,6 +10,9 @@ https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE
 # Frameworks
 The program is writen in python. The pose-estimation model is "Movenet Thunder/Lightning provided by Tensorflow". The GUI is built with Tkinter and the visualization of the pose is made using Opencv.
 
+# Performance
+According to Tensorflow's Movenet Thunder model, it achieves states of the art results, while maintaining very fast execution speed. More specifically, It can estimate a pose at about 72% accurately at 30 fps. Movenet lightning, while it can operate in 60 fps, It has lower accuracy. The model is tested of both GPU GTX 970 and with an Intel i5 CPU.
+
 # Instructions
 1. Download all the files.
 2. Install Python 3
