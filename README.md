@@ -7,6 +7,8 @@ https://github.com/kochlisGit/Deep-Trainer/blob/main/LICENSE
 
 # Snapshots
 
+# Frameworks
+The program is writen in python. The pose-estimation model is "Movenet Thunder/Lightning provided by Tensorflow". The GUI is built with Tkinter and the visualization of the pose is made using Opencv.
 
 # Instructions
 1. Download all the files.
