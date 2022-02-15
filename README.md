@@ -65,3 +65,9 @@ If You'd like to change an exercise, You must restart the application.
 * Nikolaos Gkaripis
 * Antonios Koutsouras
 * Stathis Moustakas
+
+# Future Work
+1. Develop for Mobile Phone.
+2. Add interactive capabilities.
+3. Combine Gaming Environments with Gymnastics.
+4. Add recommender systems for workout exercises.
